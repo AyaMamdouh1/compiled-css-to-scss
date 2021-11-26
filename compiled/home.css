@@ -1,0 +1,14 @@
+.b {
+  padding: 10px;
+  background-color: #ccc;
+  display: flex;
+  justify-contnt: center; }
+
+.item {
+  background-color: #f1425d;
+  margin: 30px;
+  padding: 30px;
+  font-size: 40px;
+  color: #fff; }
+
+/*# sourceMappingURL=home.css.map */
